@@ -1,6 +1,4 @@
-### Hi there, I'm Noureddine 
-
-//[My Website][website] 👋
+### Hi there, I'm Noureddine 👋
 
 ## I'm a Developer, Student and Creative!!
 
