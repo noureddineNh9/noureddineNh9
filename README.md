@@ -1,3 +1,38 @@
+<div align="center">
+  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Rajarshi Kundu</h1>
+  <h3>A passionate backend developer & cloud engineer from India.</h3>
+</div>
+ 
+ <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+    
+- 🌱 I’m currently learning **To be Extroverted**
+
+- 👯 Looking out to collaborate on <strong>System Designing</strong>
+
+- 🤝 I’m looking for help with **Frontend Design**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Elanza-48), [Gitlab](https://gitlab.com/Elanza-48)
+
+- 💬 Ask me about **Current Affairs & Philosophy 😆**
+
+- ⚡ Fun fact: **It’s all 0’s and 1’s**
+    
+<p>&nbsp;</p>
+    
+  </samp>
+</div>
+
+
+
+
+
 ### Hi there, I'm Noureddine 
 
 [My Website][website] 👋
@@ -19,9 +54,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
