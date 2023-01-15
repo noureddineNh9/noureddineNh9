@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" alt="Traefik Proxy Badge">
   
 </p>
 
