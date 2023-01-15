@@ -4,7 +4,7 @@
   <h3>A Full Stack Web Developer.</h3>
 </div>
  
-/*<img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>*/
+<!-- <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/> -->
 
 <div align="left">
   <samp>
