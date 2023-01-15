@@ -42,8 +42,11 @@
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
+    <a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
+    <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat" alt="Sass Badge">
+    
+  
 ### 🧰 Frameworks and Libraries
 
 <p>
