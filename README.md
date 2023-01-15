@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" alt="C++ Badge">
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP Badge">
       
-  
+</p>
   
 ### 🧰 Frameworks and Libraries
 
@@ -59,8 +59,7 @@
   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="Express Badge">
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=flat" alt="Socket.io Badge">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat" alt="Laravel Badge">
-  
-    
+      
 </p>
   
 
@@ -70,27 +69,20 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat" alt="Oracle Badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" alt="Traefik Proxy Badge">
-  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" alt="Traefik Proxy Badge">
-  
+  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" alt="Traefik Proxy Badge">  
   
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-  
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
   
-  
-  
-  
 </p>
 
 </br>
-
 
 
 [website]: https://noureddinenh9.github.io/noureddine-haddad
